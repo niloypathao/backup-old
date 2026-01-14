@@ -1,0 +1,24 @@
+,Deviation (Bike),Deviation (Car)
+Count (valid rows),166.0,166.0
+Mean deviation (km),-0.6931,-0.6934
+Median deviation (km),-0.435,-0.435
+Standard deviation (km),1.2694,1.2841
+Minimum deviation (km),-8.09,-8.09
+Maximum deviation (km),1.6,1.6
+25th percentile deviation (km),-1.155,-1.155
+75th percentile deviation (km),0.02,0.04
+Interquartile range IQR (km),1.175,1.195
+Skewness,-2.4413,-2.4038
+Kurtosis,10.0011,9.5911
+Mean absolute error MAE (km),0.8986,0.9086
+Root mean squared error RMSE (km),1.443,1.4559
+Mean absolute percentage error MAPE (%),9.5955,9.7015
+Positive deviation count,47.0,49.0
+Negative deviation count,117.0,115.0
+Zero deviation count,2.0,2.0
+Positive deviation percentage (%),28.3133,29.5181
+Negative deviation percentage (%),70.4819,69.2771
+Count |deviation| ≤ 0.5 km,82.0,82.0
+Percent |deviation| ≤ 0.5 km (%),49.3976,49.3976
+Count |deviation| > 0.5 km,84.0,84.0
+Percent |deviation| > 0.5 km (%),50.6024,50.6024
